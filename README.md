@@ -28,7 +28,7 @@ It reflects my journey as a developer and serves as a digital space where I show
 | **CSS3** | Styling, layout, responsiveness |
 | **JavaScript** | Interactivity & logic |
 | **Google Fonts** | Typography |
-| **FontAwesome** (optional) | Icons |
+| **FontAwesome**  | Icons |
 
 ---
 
